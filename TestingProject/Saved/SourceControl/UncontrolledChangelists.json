@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap",
 				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestWorld1.umap",
 				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap"
 			]
