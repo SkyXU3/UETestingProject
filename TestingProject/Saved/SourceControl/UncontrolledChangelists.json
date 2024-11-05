@@ -5,9 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap",
+				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Blueprints/BP_PlayerPawn.uasset",
+				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Materials/PM_Player.uasset",
+				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Materials/MAT_Player.uasset",
+				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Blueprints/BP_Player.uasset",
+				"D:/UE/UE_5.4/Engine/Content/BasicShapes/Sphere.uasset",
 				"D:/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap",
-				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestWorld1.umap",
-				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap"
+				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestWorld1.umap"
 			]
 		}
 	]
