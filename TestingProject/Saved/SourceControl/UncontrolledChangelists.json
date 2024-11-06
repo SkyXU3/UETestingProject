@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/SkyX/UETestingProject/TestingProject/Content/Project/Blueprints/BP_Player.uasset",
+				"D:/SkyX/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap",
+				"D:/SkyX/UETestingProject/TestingProject/Content/Project/Materials/PM_Player.uasset",
 				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Levels/TestLevel1.umap",
 				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Blueprints/BP_PlayerPawn.uasset",
 				"D:/UnrealEngineProjects/OnGit/UETestingProject/TestingProject/Content/Project/Materials/PM_Player.uasset",
